@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AirplaneGUI()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ AirplaneGUI\r\n
+comment1.params=
+comment1.target=void\ buildLogoPanel()
+comment1.text=\r\n\ The\ build\ Logo\ panel\ method\ adds\ Logo\ at\ the\ top\ of\ the\ page\r\n
+comment2.params=
+comment2.target=void\ buildInformationPanel()
+comment2.text=\r\n\ The\ build\ panel\ method\ adds\ a\ label,\ text\ field,\ and\ a\ button\ to\ a\ panel\r\n
+comment3.params=
+comment3.target=void\ buildTextAreaPanel()
+comment3.text=\r\n\ The\ build\ text\ area\ panel\ method\ adds\ text\ area\ panel\r\n
+comment4.params=
+comment4.target=void\ buildButtonPanel()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=\r\n\ main\ method\r\n
+numComments=6

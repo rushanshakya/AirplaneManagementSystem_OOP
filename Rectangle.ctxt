@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=newLength\ newWidth
+comment0.target=Rectangle(double,\ double)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Rectangle\r\n
+comment1.params=
+comment1.target=double\ getArea()
+comment1.text=\r\n\ Method\ to\ compute\ rectangles\ area\r\n\ @return\ the\ computed\ area\ of\ the\ rectangle\r\n
+numComments=2

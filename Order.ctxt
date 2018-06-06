@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Order()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Order\r\n
+comment1.params=newNumber\ newAmount\ newCustomer
+comment1.target=Order(java.lang.String,\ double,\ Customer)
+comment2.params=
+comment2.target=java.lang.String\ getOrderNumber()
+comment3.params=
+comment3.target=double\ getAmount()
+comment4.params=
+comment4.target=Customer\ getCustomer()
+comment5.params=newNumber
+comment5.target=void\ setOrderNumber(java.lang.String)
+comment6.params=newAmount
+comment6.target=void\ setAmount(double)
+comment7.params=newCustomer
+comment7.target=void\ setCustomer(Customer)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
